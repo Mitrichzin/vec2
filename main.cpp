@@ -89,6 +89,7 @@ int ulitka(int n, int m)
 int main() {
     setlocale(LC_ALL, "Russian");
     int n0, m0;
+    cout<<"ѕрограмма заполн€ет двумерный массив размером n x m так, как представлено в таблице дл€ 5х5"<<endl;
     cout<<"¬ведите размеры улитки"<<endl;
     cin >> n0 >> m0;
     ulitka(n0,m0);
