@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589790166 source:c:\users\user\desktop\Новая папка\vec2\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+
